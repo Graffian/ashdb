@@ -27,8 +27,4 @@ A minimal log-structured key-value store written in Rust.
 ## 💡 Usage
 
 ```bash
-cargo run -- set name ayush
-cargo run -- get name
-cargo run -- remove name
-cargo run -- show
-cargo run -- quit
+cargo run
